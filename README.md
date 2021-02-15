@@ -1,4 +1,4 @@
-# Mapbox-technical-takehome
+# Mapbox Take Home Pt. 3
 
 ## MapBox Implementation with Markers
 Implemented Android MapBox, recentered and zoomed map on Uruguay with three pointers.
